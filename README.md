@@ -24,4 +24,6 @@ pip install -r requirements.txt
 
 Use this code depending on your case
 
+**Notes to Alifia:** Use the Anaconda Navigator -> Jupyter Notebook to clean the dataset.
+
 Alifia G.
